@@ -10,4 +10,4 @@
 | 4| 5/9  | 이하은 | [react-hook-form](https://github.com/livid-fe-study/24-library-deep-dive/tree/main/w04) |
 | 5| 5/16 | 이도경 | [@preact/signals](https://github.com/livid-fe-study/24-library-deep-dive/tree/main/w05) |
 | 6| 5/23 | 정수현 | [zustand](https://github.com/livid-fe-study/24-library-deep-dive/tree/main/w06) |
-| 7| 5/30 | 배누리 | |
+| 7| 5/30 | 배누리 | virtuoso |
